@@ -1,4 +1,6 @@
 ### General TODOs:
+
+[![Join the chat at https://gitter.im/blockchainphilanthropy/paymentgateway](https://badges.gitter.im/blockchainphilanthropy/paymentgateway.svg)](https://gitter.im/blockchainphilanthropy/paymentgateway?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *   Concept of admin/support roles with access
 *   Finish UI components
 *   Update routes
